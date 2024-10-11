@@ -1,5 +1,4 @@
-// index.js
-
+//antiBot.js
 const { Client, Intents, Collection } = require("discord.js");
 const dotenv = require("dotenv");
 const schedule = require("node-schedule");
